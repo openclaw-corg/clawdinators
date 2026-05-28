@@ -1,3 +1,5 @@
+![clawdinators banner](docs/assets/readme-banner.jpg)
+
 # clawdinators
 
 <p align="center">
